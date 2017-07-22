@@ -1,0 +1,851 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DA08C054-E55E-4012-AF6B-F66A17FD7F91}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>hms</RootNamespace>
+    <AssemblyName>hms</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>brighton_logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="C_Data_Batch, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\C_Data_Batch.dll</HintPath>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Design, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\Doctor.cs" />
+    <Compile Include="CryptoEngine.cs" />
+    <Compile Include="DAL\DoctorDA.cs" />
+    <Compile Include="Forms\DoctorsInformation.cs">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Forms\DoctorsInformation.Designer.cs">
+      <DependentUpon>DoctorsInformation.cs</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Forms\frmAdmitedPatientList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAdmitedPatientList.designer.cs">
+      <DependentUpon>frmAdmitedPatientList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmBedEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmBedEntry.designer.cs">
+      <DependentUpon>frmBedEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmCategory.Designer.cs">
+      <DependentUpon>frmCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmConsultantVisit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmConsultantVisit.designer.cs">
+      <DependentUpon>frmConsultantVisit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDailyServiceReplace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDailyServiceReplace.Designer.cs">
+      <DependentUpon>frmDailyServiceReplace.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDerpartmentSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDerpartmentSetup.designer.cs">
+      <DependentUpon>frmDerpartmentSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDesignationSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDesignationSetup.designer.cs">
+      <DependentUpon>frmDesignationSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDoctorLedgerConsultantVisit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDoctorLedgerConsultantVisit.Designer.cs">
+      <DependentUpon>frmDoctorLedgerConsultantVisit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDoctorsLedgerInvestigation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDoctorsLedgerInvestigation.designer.cs">
+      <DependentUpon>frmDoctorsLedgerInvestigation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDoctorsSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDoctorsSearch.designer.cs">
+      <DependentUpon>frmDoctorsSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmEmployeeProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmEmployeeProfile.designer.cs">
+      <DependentUpon>frmEmployeeProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmfrontdeskinvestigation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmfrontdeskinvestigation.Designer.cs">
+      <DependentUpon>frmfrontdeskinvestigation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmfrontdeskreturninvestigaton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmfrontdeskreturninvestigaton.Designer.cs">
+      <DependentUpon>frmfrontdeskreturninvestigaton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmHopitalAdmissionFront.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmHopitalAdmissionFront.Designer.cs">
+      <DependentUpon>frmHopitalAdmissionFront.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmHospitalCommission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmHospitalCommission.designer.cs">
+      <DependentUpon>frmHospitalCommission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmHospitalDeposit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmHospitalDeposit.Designer.cs">
+      <DependentUpon>frmHospitalDeposit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmHospitalDischargeFornt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmHospitalDischargeFornt.designer.cs">
+      <DependentUpon>frmHospitalDischargeFornt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmHospitalOtherService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmHospitalOtherService.designer.cs">
+      <DependentUpon>frmHospitalOtherService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmHospitalReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmHospitalReport.Designer.cs">
+      <DependentUpon>frmHospitalReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmIndDoctorLedger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmIndDoctorLedger.Designer.cs">
+      <DependentUpon>frmIndDoctorLedger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmInvestigationDueCollection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmInvestigationDueCollection.designer.cs">
+      <DependentUpon>frmInvestigationDueCollection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmInvestigationReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmInvestigationReturn.designer.cs">
+      <DependentUpon>frmInvestigationReturn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmInvestigationsamplecollection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmInvestigationsamplecollection.Designer.cs">
+      <DependentUpon>frmInvestigationsamplecollection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmInvestigationSearchEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmInvestigationSearchEdit.designer.cs">
+      <DependentUpon>frmInvestigationSearchEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmlogin.Designer.cs">
+      <DependentUpon>frmlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmmainfrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmmainfrom.designer.cs">
+      <DependentUpon>frmmainfrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMarketingTargetAdjustForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMarketingTargetAdjustForm.Designer.cs">
+      <DependentUpon>frmMarketingTargetAdjustForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMarketingTargetSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMarketingTargetSetup.Designer.cs">
+      <DependentUpon>frmMarketingTargetSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMedicineInfoSetupForm .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMedicineInfoSetupForm .Designer.cs">
+      <DependentUpon>frmMedicineInfoSetupForm .cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPathologylab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPathologylab.designer.cs">
+      <DependentUpon>frmPathologylab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPathologyLabProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPathologyLabProcess.Designer.cs">
+      <DependentUpon>frmPathologyLabProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPatientBedTransfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPatientBedTransfer.designer.cs">
+      <DependentUpon>frmPatientBedTransfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPatientBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPatientBill.designer.cs">
+      <DependentUpon>frmPatientBill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPharmacyCatagorySetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPharmacyCatagorySetup.Designer.cs">
+      <DependentUpon>frmPharmacyCatagorySetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPharmacyPurchasesInputForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPharmacyPurchasesInputForm.Designer.cs">
+      <DependentUpon>frmPharmacyPurchasesInputForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPharmacyReturnForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPharmacyReturnForm.Designer.cs">
+      <DependentUpon>frmPharmacyReturnForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPharmacySalesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPharmacySalesForm.Designer.cs">
+      <DependentUpon>frmPharmacySalesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmReport.Designer.cs">
+      <DependentUpon>frmReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmReportAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmReportAll.Designer.cs">
+      <DependentUpon>frmReportAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmReportDelivery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmReportDelivery.Designer.cs">
+      <DependentUpon>frmReportDelivery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmServiceWiseList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmServiceWiseList.Designer.cs">
+      <DependentUpon>frmServiceWiseList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmserviceiteminformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmserviceiteminformation.Designer.cs">
+      <DependentUpon>frmserviceiteminformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSpotCommission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSpotCommission.Designer.cs">
+      <DependentUpon>frmSpotCommission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSpotDoctorsVisit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSpotDoctorsVisit.Designer.cs">
+      <DependentUpon>frmSpotDoctorsVisit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSpotProcedure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSpotProcedure.Designer.cs">
+      <DependentUpon>frmSpotProcedure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmStatus.Designer.cs">
+      <DependentUpon>frmStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Include_Files\Utility.cs" />
+    <Compile Include="Program.cs">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reports\rptAdmittedPatientList.cs">
+      <DependentUpon>rptAdmittedPatientList.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\rptAPTotalSalesCommistionMarketing.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptAPTotalSalesCommistionMarketing.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptDailyLedger.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptDailyLedger.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptDailySpotCommission.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptDailySpotCommission.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptDischargedPatientList.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptDischargedPatientList.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptDoctorLedger.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptDoctorLedger.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptDoctorSpotVisit.cs">
+      <DependentUpon>rptDoctorSpotVisit.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Reports\rptHospitalBill.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptHospitalBill.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptHospitalCollection.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptHospitalCollection.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptHospitalCommission.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptHospitalCommission.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptHospitalMonthlyCollection.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptHospitalMonthlyCollection.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptHospitalMonthlySummary.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptHospitalMonthlySummary.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptLabReportPath.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptLabReportPath.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptAdmissionForm1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptAdmissionForm.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptduecollection.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptduecollection.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptDueMoneyReceipt.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptDueMoneyReceipt.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptInvestigation.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptInvestigation.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptMoneyReceipt1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptMoneyReceipt.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptMonthlyCollectionDiagnostic.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptMonthlyCollectionDiagnostic.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptMonthlyTotalsalesComissionInvest1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptMonthlyTotalsalesComissionInvest.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptPaidDoctorCommissionList.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptPaidDoctorCommissionList.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptPaidSpotVisitList.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptPaidSpotVisitList.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptServicesWiseTest.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptServicesWiseTest.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptCategory.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptCategory.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptServices.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptServices.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptSpotCommission.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptSpotCommission.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptSpotCommissionList.cs">
+      <DependentUpon>rptSpotCommissionList.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <EmbeddedResource Include="Forms\DoctorsInformation.resx">
+      <DependentUpon>DoctorsInformation.cs</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAdmitedPatientList.resx">
+      <DependentUpon>frmAdmitedPatientList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmBedEntry.resx">
+      <DependentUpon>frmBedEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmCategory.resx">
+      <DependentUpon>frmCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmConsultantVisit.resx">
+      <DependentUpon>frmConsultantVisit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDailyServiceReplace.resx">
+      <DependentUpon>frmDailyServiceReplace.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDerpartmentSetup.resx">
+      <DependentUpon>frmDerpartmentSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDesignationSetup.resx">
+      <DependentUpon>frmDesignationSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDoctorLedgerConsultantVisit.resx">
+      <DependentUpon>frmDoctorLedgerConsultantVisit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDoctorsLedgerInvestigation.resx">
+      <DependentUpon>frmDoctorsLedgerInvestigation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDoctorsSearch.resx">
+      <DependentUpon>frmDoctorsSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmEmployeeProfile.resx">
+      <DependentUpon>frmEmployeeProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmfrontdeskinvestigation.resx">
+      <DependentUpon>frmfrontdeskinvestigation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmfrontdeskreturninvestigaton.resx">
+      <DependentUpon>frmfrontdeskreturninvestigaton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmHopitalAdmissionFront.resx">
+      <DependentUpon>frmHopitalAdmissionFront.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmHospitalCommission.resx">
+      <DependentUpon>frmHospitalCommission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmHospitalDeposit.resx">
+      <DependentUpon>frmHospitalDeposit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmHospitalDischargeFornt.resx">
+      <DependentUpon>frmHospitalDischargeFornt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmHospitalOtherService.resx">
+      <DependentUpon>frmHospitalOtherService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmHospitalReport.resx">
+      <DependentUpon>frmHospitalReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmIndDoctorLedger.resx">
+      <DependentUpon>frmIndDoctorLedger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmInvestigationDueCollection.resx">
+      <DependentUpon>frmInvestigationDueCollection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmInvestigationReturn.resx">
+      <DependentUpon>frmInvestigationReturn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmInvestigationsamplecollection.resx">
+      <DependentUpon>frmInvestigationsamplecollection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmInvestigationSearchEdit.resx">
+      <DependentUpon>frmInvestigationSearchEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmlogin.resx">
+      <DependentUpon>frmlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmmainfrom.resx">
+      <DependentUpon>frmmainfrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMarketingTargetAdjustForm.resx">
+      <DependentUpon>frmMarketingTargetAdjustForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMarketingTargetSetup.resx">
+      <DependentUpon>frmMarketingTargetSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMedicineInfoSetupForm .resx">
+      <DependentUpon>frmMedicineInfoSetupForm .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPathologylab.resx">
+      <DependentUpon>frmPathologylab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPathologyLabProcess.resx">
+      <DependentUpon>frmPathologyLabProcess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPatientBedTransfer.resx">
+      <DependentUpon>frmPatientBedTransfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPatientBill.resx">
+      <DependentUpon>frmPatientBill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPharmacyCatagorySetup.resx">
+      <DependentUpon>frmPharmacyCatagorySetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPharmacyPurchasesInputForm.resx">
+      <DependentUpon>frmPharmacyPurchasesInputForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPharmacyReturnForm.resx">
+      <DependentUpon>frmPharmacyReturnForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPharmacySalesForm.resx">
+      <DependentUpon>frmPharmacySalesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmReport.resx">
+      <DependentUpon>frmReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmReportAll.resx">
+      <DependentUpon>frmReportAll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmReportDelivery.resx">
+      <DependentUpon>frmReportDelivery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmServiceWiseList.resx">
+      <DependentUpon>frmServiceWiseList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmserviceiteminformation.resx">
+      <DependentUpon>frmserviceiteminformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSpotCommission.resx">
+      <DependentUpon>frmSpotCommission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSpotDoctorsVisit.resx">
+      <DependentUpon>frmSpotDoctorsVisit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSpotProcedure.resx">
+      <DependentUpon>frmSpotProcedure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmStatus.resx">
+      <DependentUpon>frmStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reports\rptAdmittedPatientList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptAdmittedPatientList.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptAPTotalSalesCommistionMarketing.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptAPTotalSalesCommistionMarketing.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptDailyLedger.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDailyLedger.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptDailySpotCommission.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDailySpotCommission.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptDischargedPatientList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDischargedPatientList.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptDoctorLedger.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDoctorLedger.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptDoctorSpotVisit.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDoctorSpotVisit.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptHospitalBill.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptHospitalBill.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptHospitalCollection.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptHospitalCollection.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptHospitalCommission.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptHospitalCommission.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptHospitalMonthlyCollection.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptHospitalMonthlyCollection.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptHospitalMonthlySummary.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptHospitalMonthlySummary.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptLabReportPath.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptLabReportPath.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptAdmissionForm.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptAdmissionForm1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptduecollection.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptduecollection.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptDueMoneyReceipt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDueMoneyReceipt.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptInvestigation.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptInvestigation.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptMoneyReceipt.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptMoneyReceipt1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptMonthlyCollectionDiagnostic.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptMonthlyCollectionDiagnostic.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptMonthlyTotalsalesComissionInvest.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptMonthlyTotalsalesComissionInvest1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptPaidDoctorCommissionList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptPaidDoctorCommissionList.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptPaidSpotVisitList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptPaidSpotVisitList.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptServicesWiseTest.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptServicesWiseTest.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptCategory.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptCategory.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptServices.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptServices.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptSpotCommission.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptSpotCommission.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptSpotCommissionList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptSpotCommissionList.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bin\Debug\hms.vshost.exe.manifest" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\SAVE.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Edit.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\ADD.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\CLOSE.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Preview.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Search.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\DELETE.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\PRINTMAN.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\C_Data_Batch.dll" />
+    <Content Include="bin\Debug\hms_.exe" />
+    <Content Include="bin\Debug\hms.pdb" />
+    <Content Include="bin\Debug\hms.vshost.exe" />
+    <None Include="Images\Refresh-icon.png" />
+    <Content Include="brighton_logo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

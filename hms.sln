@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hms", "hms\hms.csproj", "{DA08C054-E55E-4012-AF6B-F66A17FD7F91}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BrightonHMS", "BrightonHMS\BrightonHMS.vdproj", "{BD36EBE2-C4C1-4C44-934C-7E3D26B632A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA08C054-E55E-4012-AF6B-F66A17FD7F91}.Debug|x86.ActiveCfg = Debug|x86
+		{DA08C054-E55E-4012-AF6B-F66A17FD7F91}.Debug|x86.Build.0 = Debug|x86
+		{DA08C054-E55E-4012-AF6B-F66A17FD7F91}.Release|x86.ActiveCfg = Release|x86
+		{DA08C054-E55E-4012-AF6B-F66A17FD7F91}.Release|x86.Build.0 = Release|x86
+		{BD36EBE2-C4C1-4C44-934C-7E3D26B632A7}.Debug|x86.ActiveCfg = Debug
+		{BD36EBE2-C4C1-4C44-934C-7E3D26B632A7}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

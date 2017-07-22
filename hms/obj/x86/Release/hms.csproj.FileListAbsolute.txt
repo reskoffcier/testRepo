@@ -1,0 +1,1128 @@
+E:\FinalHMS\APS_P_BHCL_HMS\hms\bin\Release\hms.exe
+E:\FinalHMS\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.resx
+E:\FinalHMS\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.cs
+E:\FinalHMS\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.Designer.cs
+E:\FinalHMS\APS_P_BHCL_HMS\hms\bin\Release\Program.cs
+E:\FinalHMS\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsInformation.resources
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmAdmitedPatientList.resources
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmBedEntry.resources
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmCategory.resources
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmConsultantVisit.resources
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDerpartmentSetup.resources
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDesignationSetup.resources
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmEmployeeProfile.resources
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvestigation.resources
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvetigationreturn.resources
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHopitalAdmissionFront.resources
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDeposit.resources
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationDueCollection.resources
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationReturn.resources
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationsamplecollection.resources
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationSearchEdit.resources
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmlogin.resources
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmmainfrom.resources
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologylab.resources
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologyLabProcess.resources
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReport.resources
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportDelivery.resources
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmServiceWiseList.resources
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmserviceiteminformation.resources
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Properties.Resources.resources
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csproj.GenerateResource.Cache
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
+E:\FinalHMS\APS_P_BHCL_HMS\hms\bin\Release\hms.pdb
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csprojResolveAssemblyReference.cache
+E:\FinalHMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.SpotCommission.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsInformation.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmAdmitedPatientList.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmBedEntry.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmCategory.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmConsultantVisit.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDerpartmentSetup.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDesignationSetup.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmEmployeeProfile.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvestigation.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvetigationreturn.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHopitalAdmissionFront.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDeposit.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationDueCollection.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationReturn.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationsamplecollection.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationSearchEdit.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmlogin.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmmainfrom.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologylab.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologyLabProcess.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReport.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportDelivery.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmServiceWiseList.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmserviceiteminformation.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.SpotCommission.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Properties.Resources.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csproj.GenerateResource.Cache
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.resx
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.cs
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.Designer.cs
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\bin\Release\Program.cs
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\bin\Release\hms.exe
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\bin\Release\hms.pdb
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csprojResolveAssemblyReference.cache
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csprojResolveAssemblyReference.cache
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsInformation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmAdmitedPatientList.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmBedEntry.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmCategory.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmConsultantVisit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDerpartmentSetup.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDesignationSetup.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmEmployeeProfile.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvestigation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvetigationreturn.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHopitalAdmissionFront.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDeposit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalOtherService.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationDueCollection.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationReturn.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationsamplecollection.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationSearchEdit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmlogin.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmmainfrom.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologylab.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologyLabProcess.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReport.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportDelivery.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmServiceWiseList.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmserviceiteminformation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.SpotCommission.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Properties.Resources.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csproj.GenerateResource.Cache
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.resx
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.Designer.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\bin\Release\Program.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\bin\Release\hms.exe
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\bin\Release\hms.pdb
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsLedgerInvestigation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsSearch.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDischargeFornt.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBill.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBedTransfer.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\bin\Release\hms.pdb
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.resx
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.cs
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.Designer.cs
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\bin\Release\Program.cs
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\bin\Release\hms.exe
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsInformation.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmAdmitedPatientList.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmBedEntry.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmCategory.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmConsultantVisit.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDerpartmentSetup.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDesignationSetup.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsLedgerInvestigation.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsSearch.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmEmployeeProfile.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvestigation.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvetigationreturn.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHopitalAdmissionFront.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDeposit.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDischargeFornt.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalOtherService.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationDueCollection.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationReturn.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationsamplecollection.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationSearchEdit.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmlogin.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmmainfrom.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologylab.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologyLabProcess.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBedTransfer.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBill.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReport.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportDelivery.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmServiceWiseList.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmserviceiteminformation.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.SpotCommission.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Properties.Resources.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csproj.GenerateResource.Cache
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_azhar\APS_P_BHCL_HMS\APS_P_BHCL_HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.resx
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.Designer.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\bin\Release\Program.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\bin\Release\hms.exe
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\bin\Release\hms.pdb
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csprojResolveAssemblyReference.cache
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsInformation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmAdmitedPatientList.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmBedEntry.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmCategory.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmConsultantVisit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDerpartmentSetup.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDesignationSetup.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsLedgerInvestigation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsSearch.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmEmployeeProfile.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvestigation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvetigationreturn.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHopitalAdmissionFront.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDeposit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDischargeFornt.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalOtherService.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationDueCollection.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationReturn.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationsamplecollection.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationSearchEdit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmlogin.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmmainfrom.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologylab.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologyLabProcess.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBedTransfer.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBill.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReport.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportDelivery.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmServiceWiseList.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmserviceiteminformation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.SpotCommission.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Properties.Resources.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_LATEST\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csproj.GenerateResource.Cache
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.resx
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.Designer.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Program.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\bin\Release\hms.pdb
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csprojResolveAssemblyReference.cache
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsInformation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmAdmitedPatientList.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmBedEntry.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmCategory.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmConsultantVisit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDerpartmentSetup.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDesignationSetup.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsLedgerInvestigation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsSearch.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmEmployeeProfile.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvestigation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvetigationreturn.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHopitalAdmissionFront.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDeposit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDischargeFornt.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalOtherService.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationDueCollection.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationReturn.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationsamplecollection.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationSearchEdit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmlogin.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmmainfrom.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologylab.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologyLabProcess.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBedTransfer.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBill.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReport.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportDelivery.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmServiceWiseList.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmserviceiteminformation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.SpotCommission.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Properties.Resources.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csproj.GenerateResource.Cache
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_16Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.resx
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.Designer.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Program.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\bin\Release\hms.pdb
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsInformation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmAdmitedPatientList.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmBedEntry.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmCategory.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmConsultantVisit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDerpartmentSetup.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDesignationSetup.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsLedgerInvestigation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsSearch.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmEmployeeProfile.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvestigation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvetigationreturn.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHopitalAdmissionFront.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDeposit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDischargeFornt.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalOtherService.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationDueCollection.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationReturn.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationsamplecollection.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationSearchEdit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmlogin.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmmainfrom.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologylab.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologyLabProcess.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBedTransfer.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBill.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReport.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportDelivery.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmServiceWiseList.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmserviceiteminformation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.SpotCommission.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Properties.Resources.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csproj.GenerateResource.Cache
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_17Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.resx
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.Designer.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Program.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\bin\Release\hms.pdb
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsInformation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmAdmitedPatientList.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmBedEntry.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmCategory.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmConsultantVisit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDerpartmentSetup.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDesignationSetup.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsLedgerInvestigation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsSearch.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmEmployeeProfile.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvestigation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvetigationreturn.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHopitalAdmissionFront.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDeposit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDischargeFornt.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalOtherService.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationDueCollection.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationReturn.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationsamplecollection.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationSearchEdit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmlogin.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmmainfrom.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologylab.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologyLabProcess.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBedTransfer.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBill.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReport.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportDelivery.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmServiceWiseList.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmserviceiteminformation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.SpotCommission.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Properties.Resources.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csproj.GenerateResource.Cache
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_Final_18Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.resx
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.cs
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.Designer.cs
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Program.cs
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\bin\Release\hms.pdb
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsInformation.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmAdmitedPatientList.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmBedEntry.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmCategory.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmConsultantVisit.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDerpartmentSetup.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDesignationSetup.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsLedgerInvestigation.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsSearch.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmEmployeeProfile.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvestigation.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvetigationreturn.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHopitalAdmissionFront.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDeposit.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDischargeFornt.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalOtherService.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationDueCollection.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationReturn.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationsamplecollection.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationSearchEdit.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmlogin.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmmainfrom.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologylab.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologyLabProcess.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBedTransfer.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBill.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReport.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportDelivery.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmServiceWiseList.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmserviceiteminformation.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.SpotCommission.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Properties.Resources.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csproj.GenerateResource.Cache
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
+D:\My Work\HMS\Application\APS_P_BHCL_HMS_Final_19Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csprojResolveAssemblyReference.cache
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.resx
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.Designer.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Program.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\bin\Release\hms.pdb
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csprojResolveAssemblyReference.cache
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsInformation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmAdmitedPatientList.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmBedEntry.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmCategory.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmConsultantVisit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDerpartmentSetup.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDesignationSetup.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsLedgerInvestigation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsSearch.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmEmployeeProfile.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvestigation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvetigationreturn.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHopitalAdmissionFront.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDeposit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDischargeFornt.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalOtherService.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationDueCollection.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationReturn.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationsamplecollection.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationSearchEdit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmlogin.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmmainfrom.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologylab.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologyLabProcess.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBedTransfer.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBill.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReport.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportDelivery.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmServiceWiseList.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmserviceiteminformation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.SpotCommission.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Properties.Resources.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csproj.GenerateResource.Cache
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_28Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.resx
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.cs
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.Designer.cs
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Program.cs
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\bin\Release\hms.pdb
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsInformation.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmAdmitedPatientList.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmBedEntry.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmCategory.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmConsultantVisit.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDerpartmentSetup.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDesignationSetup.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsLedgerInvestigation.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsSearch.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmEmployeeProfile.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvestigation.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvetigationreturn.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHopitalAdmissionFront.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDeposit.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDischargeFornt.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalOtherService.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationDueCollection.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationReturn.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationsamplecollection.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationSearchEdit.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmlogin.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmmainfrom.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologylab.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologyLabProcess.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBedTransfer.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBill.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReport.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportDelivery.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmServiceWiseList.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmserviceiteminformation.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.SpotCommission.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Properties.Resources.resources
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csproj.GenerateResource.Cache
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+E:\Drive F\Azhar Office\Personal Documents\HMS\APS_P_BHCL_HMS_29Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.resx
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.Designer.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Program.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\bin\Release\hms.pdb
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csprojResolveAssemblyReference.cache
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsInformation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmAdmitedPatientList.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmBedEntry.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmCategory.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmConsultantVisit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDerpartmentSetup.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDesignationSetup.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsLedgerInvestigation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsSearch.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmEmployeeProfile.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvestigation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvetigationreturn.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHopitalAdmissionFront.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDeposit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDischargeFornt.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalOtherService.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationDueCollection.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationReturn.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationsamplecollection.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationSearchEdit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmlogin.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmmainfrom.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologylab.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologyLabProcess.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBedTransfer.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBill.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReport.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportDelivery.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmServiceWiseList.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmserviceiteminformation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.SpotCommission.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Properties.Resources.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csproj.GenerateResource.Cache
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_30Nov2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.resx
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.Designer.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Program.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\bin\Release\hms.pdb
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csprojResolveAssemblyReference.cache
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsInformation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmAdmitedPatientList.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmBedEntry.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmCategory.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmConsultantVisit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDerpartmentSetup.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDesignationSetup.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsLedgerInvestigation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsSearch.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmEmployeeProfile.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvestigation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvetigationreturn.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHopitalAdmissionFront.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDeposit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDischargeFornt.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalOtherService.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationDueCollection.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationReturn.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationsamplecollection.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationSearchEdit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmlogin.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmmainfrom.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologylab.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologyLabProcess.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBedTransfer.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBill.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReport.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportDelivery.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmServiceWiseList.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmserviceiteminformation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.SpotCommission.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Properties.Resources.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_02Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csproj.GenerateResource.Cache
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.resx
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.Designer.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Program.cs
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\bin\Release\hms.pdb
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csprojResolveAssemblyReference.cache
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsInformation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmAdmitedPatientList.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmBedEntry.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmCategory.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmConsultantVisit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDerpartmentSetup.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDesignationSetup.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsLedgerInvestigation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsSearch.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmEmployeeProfile.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvestigation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvetigationreturn.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHopitalAdmissionFront.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDeposit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDischargeFornt.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalOtherService.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationDueCollection.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationReturn.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationsamplecollection.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationSearchEdit.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmlogin.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmmainfrom.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologylab.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologyLabProcess.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBedTransfer.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBill.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReport.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportDelivery.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmServiceWiseList.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmserviceiteminformation.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.SpotCommission.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Properties.Resources.resources
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csproj.GenerateResource.Cache
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+E:\Azhar Projects\HMS\APS_P_BHCL_HMS_6Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.resx
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.cs
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.Designer.cs
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\bin\Release\Program.cs
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\bin\Release\hms.exe
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\bin\Release\hms.pdb
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsInformation.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmAdmitedPatientList.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmBedEntry.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmCategory.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmConsultantVisit.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDerpartmentSetup.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDesignationSetup.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsLedgerInvestigation.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsSearch.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmEmployeeProfile.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvestigation.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvetigationreturn.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHopitalAdmissionFront.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDeposit.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDischargeFornt.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalOtherService.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalReport.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationDueCollection.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationReturn.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationsamplecollection.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationSearchEdit.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmlogin.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmmainfrom.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologylab.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologyLabProcess.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBedTransfer.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBill.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReport.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportAll.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportDelivery.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmServiceWiseList.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmserviceiteminformation.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.SpotCommission.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Properties.Resources.resources
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csproj.GenerateResource.Cache
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
+E:\FHMS\APS_P_BHCL_HMS_atik_8Dec2016(2)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csprojResolveAssemblyReference.cache
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
+F:\My Work\APS_P_BHCL_HMS\hms\bin\Release\hms.exe
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsInformation.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmAdmitedPatientList.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmBedEntry.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmCategory.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmConsultantVisit.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDerpartmentSetup.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDesignationSetup.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsLedgerInvestigation.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsSearch.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmEmployeeProfile.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvestigation.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvetigationreturn.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHopitalAdmissionFront.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDeposit.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDischargeFornt.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalOtherService.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalReport.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationDueCollection.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationReturn.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationsamplecollection.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationSearchEdit.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmlogin.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmmainfrom.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologylab.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologyLabProcess.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBedTransfer.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBill.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReport.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportAll.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportDelivery.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmServiceWiseList.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmserviceiteminformation.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.SpotCommission.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Properties.Resources.resources
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csproj.GenerateResource.Cache
+F:\My Work\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+F:\My Work\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.resx
+F:\My Work\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.cs
+F:\My Work\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.Designer.cs
+F:\My Work\APS_P_BHCL_HMS\hms\bin\Release\Program.cs
+F:\My Work\APS_P_BHCL_HMS\hms\bin\Release\hms.pdb
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+F:\My Work\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csprojResolveAssemblyReference.cache
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.resx
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.cs
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.Designer.cs
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Program.cs
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\bin\Release\hms.pdb
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csprojResolveAssemblyReference.cache
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsInformation.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmAdmitedPatientList.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmBedEntry.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmCategory.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmConsultantVisit.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDerpartmentSetup.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDesignationSetup.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsLedgerInvestigation.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsSearch.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmEmployeeProfile.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvestigation.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvetigationreturn.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHopitalAdmissionFront.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDeposit.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDischargeFornt.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalOtherService.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalReport.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationDueCollection.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationReturn.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationsamplecollection.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationSearchEdit.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmlogin.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmmainfrom.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologylab.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologyLabProcess.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBedTransfer.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBill.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReport.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportAll.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportDelivery.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmServiceWiseList.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmserviceiteminformation.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.SpotCommission.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmSpotDoctorsVisit.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmSpotProcedure.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Properties.Resources.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csproj.GenerateResource.Cache
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDailyServiceReplace.resources
+E:\HMS\APS_P_BHCL_HMS_atik_15Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmStatus.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.resx
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.cs
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.Designer.cs
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Program.cs
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\bin\Release\hms.pdb
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csprojResolveAssemblyReference.cache
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsInformation.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmAdmitedPatientList.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmBedEntry.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmCategory.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmConsultantVisit.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDailyServiceReplace.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDerpartmentSetup.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDesignationSetup.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsLedgerInvestigation.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsSearch.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmEmployeeProfile.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvestigation.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvetigationreturn.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHopitalAdmissionFront.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDeposit.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDischargeFornt.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalOtherService.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalReport.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationDueCollection.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationReturn.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationsamplecollection.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationSearchEdit.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmlogin.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmmainfrom.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologylab.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologyLabProcess.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBedTransfer.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBill.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReport.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportAll.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportDelivery.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmServiceWiseList.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmserviceiteminformation.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.SpotCommission.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmSpotDoctorsVisit.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmSpotProcedure.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmStatus.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Properties.Resources.resources
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csproj.GenerateResource.Cache
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+E:\HMS\APS_P_BHCL_HMS_19Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
+E:\HMS\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.resx
+E:\HMS\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.cs
+E:\HMS\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.Designer.cs
+E:\HMS\APS_P_BHCL_HMS\hms\bin\Release\Program.cs
+E:\HMS\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+E:\HMS\APS_P_BHCL_HMS\hms\bin\Release\hms.exe
+E:\HMS\APS_P_BHCL_HMS\hms\bin\Release\hms.pdb
+E:\HMS\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\HMS\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csprojResolveAssemblyReference.cache
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsInformation.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmAdmitedPatientList.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmBedEntry.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmCategory.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmConsultantVisit.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDailyServiceReplace.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDerpartmentSetup.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDesignationSetup.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsLedgerInvestigation.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsSearch.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmEmployeeProfile.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvestigation.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvetigationreturn.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHopitalAdmissionFront.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalCommission.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDeposit.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDischargeFornt.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalOtherService.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalReport.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationDueCollection.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationReturn.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationsamplecollection.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationSearchEdit.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmlogin.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmmainfrom.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologylab.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologyLabProcess.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBedTransfer.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBill.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReport.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportAll.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportDelivery.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmServiceWiseList.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmserviceiteminformation.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.SpotCommission.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmSpotDoctorsVisit.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmSpotProcedure.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmStatus.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Properties.Resources.resources
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csproj.GenerateResource.Cache
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+E:\HMS\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.resx
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.cs
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.Designer.cs
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Program.cs
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\bin\Release\hms.pdb
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csprojResolveAssemblyReference.cache
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsInformation.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmAdmitedPatientList.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmBedEntry.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmCategory.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmConsultantVisit.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDailyServiceReplace.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDerpartmentSetup.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDesignationSetup.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsLedgerInvestigation.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsSearch.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmEmployeeProfile.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvestigation.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvetigationreturn.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHopitalAdmissionFront.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalCommission.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDeposit.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDischargeFornt.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalOtherService.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalReport.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationDueCollection.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationReturn.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationsamplecollection.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationSearchEdit.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmlogin.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmmainfrom.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologylab.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologyLabProcess.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBedTransfer.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBill.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReport.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportAll.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportDelivery.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmServiceWiseList.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmserviceiteminformation.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.SpotCommission.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmSpotDoctorsVisit.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmSpotProcedure.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmStatus.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Properties.Resources.resources
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csproj.GenerateResource.Cache
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+E:\HMS\APS_P_BHCL_HMS_atik_25Dec2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.resx
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.cs
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.Designer.cs
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\bin\Release\Program.cs
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\bin\Release\hms.exe
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\bin\Release\hms.pdb
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsInformation.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmAdmitedPatientList.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmBedEntry.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmCategory.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmConsultantVisit.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDailyServiceReplace.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDerpartmentSetup.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDesignationSetup.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorLedgerConsultantVisit.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsLedgerInvestigation.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsSearch.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmEmployeeProfile.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvestigation.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvetigationreturn.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHopitalAdmissionFront.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalCommission.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDeposit.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDischargeFornt.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalOtherService.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalReport.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmIndDoctorLedger.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationDueCollection.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationReturn.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationsamplecollection.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationSearchEdit.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmlogin.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmmainfrom.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologylab.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologyLabProcess.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBedTransfer.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBill.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReport.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportAll.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportDelivery.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmServiceWiseList.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmserviceiteminformation.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.SpotCommission.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmSpotDoctorsVisit.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmSpotProcedure.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmStatus.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Properties.Resources.resources
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csproj.GenerateResource.Cache
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+E:\HMS\APS_P_BHCL_HMS_09Jan2016\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.resx
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.cs
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.Designer.cs
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\bin\Release\Program.cs
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\bin\Release\hms.exe
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\bin\Release\hms.pdb
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsInformation.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmAdmitedPatientList.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmBedEntry.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmCategory.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmConsultantVisit.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDailyServiceReplace.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDerpartmentSetup.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDesignationSetup.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorLedgerConsultantVisit.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsLedgerInvestigation.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsSearch.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmEmployeeProfile.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvestigation.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvetigationreturn.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHopitalAdmissionFront.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalCommission.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDeposit.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDischargeFornt.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalOtherService.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalReport.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmIndDoctorLedger.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationDueCollection.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationReturn.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationsamplecollection.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationSearchEdit.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmlogin.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmmainfrom.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologylab.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologyLabProcess.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBedTransfer.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBill.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReport.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportAll.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportDelivery.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmServiceWiseList.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmserviceiteminformation.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.SpotCommission.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmSpotDoctorsVisit.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmSpotProcedure.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmStatus.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Properties.Resources.resources
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csproj.GenerateResource.Cache
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+D:\My Work\HMS\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
+F:\My Work\Application\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.resx
+F:\My Work\Application\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.cs
+F:\My Work\Application\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.Designer.cs
+F:\My Work\Application\APS_P_BHCL_HMS\hms\bin\Release\Program.cs
+F:\My Work\Application\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+F:\My Work\Application\APS_P_BHCL_HMS\hms\bin\Release\hms.exe
+F:\My Work\Application\APS_P_BHCL_HMS\hms\bin\Release\hms.pdb
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsInformation.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmAdmitedPatientList.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmBedEntry.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmCategory.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmConsultantVisit.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDailyServiceReplace.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDerpartmentSetup.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDesignationSetup.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorLedgerConsultantVisit.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsLedgerInvestigation.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsSearch.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmEmployeeProfile.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvestigation.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvetigationreturn.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHopitalAdmissionFront.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalCommission.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDeposit.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDischargeFornt.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalOtherService.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalReport.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmIndDoctorLedger.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationDueCollection.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationReturn.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationsamplecollection.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationSearchEdit.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmlogin.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmmainfrom.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologylab.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologyLabProcess.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBedTransfer.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBill.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReport.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportAll.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportDelivery.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmServiceWiseList.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmserviceiteminformation.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.SpotCommission.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmSpotDoctorsVisit.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmSpotProcedure.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmStatus.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Properties.Resources.resources
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csproj.GenerateResource.Cache
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+F:\My Work\Application\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.resx
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.cs
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\bin\Release\Forms\DoctorsInformation.Designer.cs
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\bin\Release\Program.cs
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\bin\Release\hms.exe
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\bin\Release\hms.pdb
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsInformation.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmAdmitedPatientList.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmBedEntry.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmCategory.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmConsultantVisit.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDailyServiceReplace.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDerpartmentSetup.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDesignationSetup.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorLedgerConsultantVisit.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsLedgerInvestigation.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmDoctorsSearch.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmEmployeeProfile.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvestigation.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmfrontdeskinvetigationreturn.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHopitalAdmissionFront.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalCommission.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDeposit.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalDischargeFornt.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalOtherService.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmHospitalReport.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmIndDoctorLedger.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationDueCollection.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationReturn.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationsamplecollection.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmInvestigationSearchEdit.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmlogin.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmmainfrom.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmMarketingTargetAdjustForm.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmMarketingTargetSetup.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmMedicineInfoSetupForm.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologylab.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPathologyLabProcess.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBedTransfer.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPatientBill.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPharmacyCatagorySetup.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPharmacyPurchasesInputForm.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmPharmacySalesForm.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReport.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportAll.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmReportDelivery.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmServiceWiseList.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmserviceiteminformation.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.SpotCommission.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmSpotDoctorsVisit.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmSpotProcedure.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Forms.frmStatus.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.Properties.Resources.resources
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.csproj.GenerateResource.Cache
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+E:\HMS\APS_P_BHCL_HMS_25Jan2017\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
+E:\Azhar Projects\APS_P_BHCL_HMS(3)\APS_P_BHCL_HMS\hms\bin\Release\hms.exe.config
+E:\Azhar Projects\APS_P_BHCL_HMS(3)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.exe
+E:\Azhar Projects\APS_P_BHCL_HMS(3)\APS_P_BHCL_HMS\hms\obj\x86\Release\hms.pdb
